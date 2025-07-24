@@ -49,13 +49,13 @@
                         </div>
                         <div class="navbar-collapse collapse">
                             <ul class="nav navbar-nav">
-                                <li><a href="#">TECHNOLOGIES learn</a></li>
+                                <li><a href="#">TECHNOLOGIES</a></li>
                                 <li><a href="#">ABOUT</a></li>
                                 <li><a href="#">BLOG</a></li>
                             </ul>
                             <div class="navbar-collapse navbar-right collapse">
 	                            <ul class="nav navbar-nav">
-	                        	 <li><a href="${contextPath}/login">LOGIN please</a></li>
+	                        	 <li><a href="${contextPath}/login">LOGIN</a></li>
 	                        	 <li><a href="${contextPath}/registration">SIGN UP</a></li>
 	                       	 	</ul>
                             </div>
