@@ -3,12 +3,12 @@ version: "3"
 services:
  devopsdb:
    container_name: devopsdb
-   image: venky9901/deployrepo:dbimage
+   image: venky9901/deploy:mynewdbimage
    ports:
      - "3306:3306"
 
  application:
-   image: venky9901/deployrepo:appimage
+   image: venky9901/deploy:mynewappimage
    container_name: appcontainer
    ports:
      - "1234:8080"
